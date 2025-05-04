@@ -1,0 +1,43 @@
+[04-May-2025 15:19:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bidolumedya_cari.users' doesn't exist in /home/bidolumedya/public_html/cari/index.php:23
+Stack trace:
+#0 /home/bidolumedya/public_html/cari/index.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/bidolumedya/public_html/cari/index.php on line 23
+[04-May-2025 15:26:01 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/bidolumedya/public_html/cari/index.php on line 6
+[04-May-2025 15:26:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/bidolumedya/public_html/cari/index.php on line 6
+[04-May-2025 15:30:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1270 Illegal mix of collations (latin1_swedish_ci,IMPLICIT), (utf8_general_ci,COERCIBLE), (utf8_general_ci,COERCIBLE) for operation 'in' in /home/bidolumedya/public_html/cari/incomes.php:107
+Stack trace:
+#0 /home/bidolumedya/public_html/cari/incomes.php(107): PDO->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/bidolumedya/public_html/cari/incomes.php on line 107
+[04-May-2025 15:31:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1270 Illegal mix of collations (latin1_swedish_ci,IMPLICIT), (utf8_general_ci,COERCIBLE), (utf8_general_ci,COERCIBLE) for operation 'in' in /home/bidolumedya/public_html/cari/incomes.php:107
+Stack trace:
+#0 /home/bidolumedya/public_html/cari/incomes.php(107): PDO->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/bidolumedya/public_html/cari/incomes.php on line 107
+[04-May-2025 15:31:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1270 Illegal mix of collations (latin1_swedish_ci,IMPLICIT), (utf8_general_ci,COERCIBLE), (utf8_general_ci,COERCIBLE) for operation 'in' in /home/bidolumedya/public_html/cari/incomes.php:107
+Stack trace:
+#0 /home/bidolumedya/public_html/cari/incomes.php(107): PDO->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/bidolumedya/public_html/cari/incomes.php on line 107
+[04-May-2025 15:32:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1270 Illegal mix of collations (latin1_swedish_ci,IMPLICIT), (utf8_general_ci,COERCIBLE), (utf8_general_ci,COERCIBLE) for operation 'in' in /home/bidolumedya/public_html/cari/incomes.php:107
+Stack trace:
+#0 /home/bidolumedya/public_html/cari/incomes.php(107): PDO->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/bidolumedya/public_html/cari/incomes.php on line 107
+[04-May-2025 15:33:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1270 Illegal mix of collations (latin1_swedish_ci,IMPLICIT), (utf8_general_ci,COERCIBLE), (utf8_general_ci,COERCIBLE) for operation 'in' in /home/bidolumedya/public_html/cari/incomes.php:107
+Stack trace:
+#0 /home/bidolumedya/public_html/cari/incomes.php(107): PDO->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/bidolumedya/public_html/cari/incomes.php on line 107
+[04-May-2025 15:33:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1270 Illegal mix of collations (latin1_swedish_ci,IMPLICIT), (utf8_general_ci,COERCIBLE), (utf8_general_ci,COERCIBLE) for operation 'in' in /home/bidolumedya/public_html/cari/incomes.php:107
+Stack trace:
+#0 /home/bidolumedya/public_html/cari/incomes.php(107): PDO->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/bidolumedya/public_html/cari/incomes.php on line 107
+[04-May-2025 15:36:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1270 Illegal mix of collations (latin1_swedish_ci,IMPLICIT), (utf8_general_ci,COERCIBLE), (utf8_general_ci,COERCIBLE) for operation 'in' in /home/bidolumedya/public_html/cari/incomes.php:107
+Stack trace:
+#0 /home/bidolumedya/public_html/cari/incomes.php(107): PDO->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/bidolumedya/public_html/cari/incomes.php on line 107
+[04-May-2025 16:26:55 UTC] PHP Notice:  Undefined index: address in /home/bidolumedya/public_html/cari/customers.php on line 25
